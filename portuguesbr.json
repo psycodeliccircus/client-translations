@@ -1,6 +1,6 @@
 {
-	"name": "portuguese",
-	"code": "pt",
+	"name": "portugues_brasil",
+	"code": "ptBR",
 	"value":
 	{
 		"home": "Início",
@@ -11,11 +11,11 @@
 		"settingssub": "Definições de multijogador",
 		"nickname": "Nickname no jogo :",
 		"path": "Caminho para o jogo :",
-		"aboutus": "Sobre nós",
+		"aboutus": "Sobre",
 		"support": "Suporte",
 		"yeap": "Sim!",
 		"cpath": "Mudar o caminho?",
 		"cnickname": "Mudar o nickname?",
-		"quit": "undefined"
+		"quit": "Sair"
 	}
 }
